@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="cmbmodel_lib" value="project"/>
+		<level name="antlr-2.7.7" value="project"/>
+	</levels>
+</component>

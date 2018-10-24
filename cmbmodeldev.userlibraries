@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="antlr-2.7.7">
+    <archive path="D:/new/cmbmodeldev/lib/antlr-2.7.7.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/antlr-runtime-3.4.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/chardet-1.0.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/commons-codec-1.5.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/commons-collections-3.2.2.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/commons-io-2.4.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/commons-lang-2.6.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/commons-lang3-3.8.1.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/commons-logging-1.1.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/cpdetector_1.0.10.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/dom4j-1.6.1.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/geronimo-jpa_3.0_spec-1.0.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/jargs-1.0.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/junit-3.8.1.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/log4j-1.2.13.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/mysql-connector-java-5.1.37.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/poi-3.9-20121203.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/poi-examples-3.9-20121203.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/poi-excelant-3.9-20121203.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/poi-ooxml-3.9-20121203.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/poi-ooxml-schemas-3.9-20121203.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/poi-scratchpad-3.9-20121203.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/slf4j-api-1.7.5.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/stax-api-1.0.1.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/xercesImpl.jar" />
+    <archive path="D:/new/cmbmodeldev/lib/xmlbeans-2.3.0.jar" />
+  </library>
+  <library name="Python 2.7.5 (C:\Python27\python.exe) interpreter library">
+    <archive path="C:/Python27/DLLs" />
+    <archive path="C:/Python27/Lib" />
+    <archive path="C:/Python27/Lib/lib-tk" />
+    <archive path="C:/Python27" />
+    <archive path="C:/Python27/Lib/site-packages" />
+    <archive path="C:/Users/Administrator/.IntelliJIdea2016.3/system/python_stubs/-762174762" />
+    <archive path="C:/Users/Administrator/.IntelliJIdea2016.3/config/plugins/python/helpers/python-skeletons" />
+  </library>
+  <library name="Python 3.6.5 (C:\Users\Administrator\AppData\Local\Programs\Python\Python36\python.exe) interpreter library" />
+  <library name="Remote Python 2.7.5 (ssh://root@10.10.10.36:22/usr/bin/python) interpreter library" />
+</eclipse-userlibraries>
+
